@@ -1,4 +1,4 @@
 
 <Version: 1.03>
-/icon/Micon.png https://github.com/Apacci/Apaccigamerpgmakerupdate/raw/master/icon.png
+/icon/icon.png https://github.com/Apacci/Apaccigamerpgmakerupdate/raw/master/icon.png
 <End of version>
