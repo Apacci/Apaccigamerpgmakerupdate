@@ -1,3 +1,4 @@
 
-<Version: 1.01>
+<Version: 1.04.1>
+/data/test.zip https://github.com/pbatard/rufus/releases/download/v3.11/rufus-3.11p.exe
 <End of version>
