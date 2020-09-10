@@ -1,4 +1,4 @@
 
 <Version: 1.04>
-/icon/icon.png https://github.com/Apacci/Apaccigamerpgmakerupdate/raw/master/icon.png
+/data/test.zip https://github.com/pbatard/rufus/releases/download/v3.11/rufus-3.11p.exe
 <End of version>
