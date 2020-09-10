@@ -1,4 +1,4 @@
 
-<Version: 1.05.1>
+<Version: 1.05>
 /data/test.zip https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.8/npp.7.8.8.Installer.x64.exe
 <End of version>
